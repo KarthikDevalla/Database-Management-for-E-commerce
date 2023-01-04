@@ -7,7 +7,7 @@ The scope of this project starts from collecting the product data from the vendo
 The reason for the split in PIM is an attempt to build a dynamic database system (i.e) it changes over time. Any changes that could be done on categories alone could save performance intensive tasks that needed to be on performed on many products.
 
 
-## Erd, Database Schema and Business Rules.
+## Business Rules.
 
 * A new Customer can register on the website.
 * A Customer can change their personal details.
@@ -20,4 +20,3 @@ The reason for the split in PIM is an attempt to build a dynamic database system
 * Customer can update the quantity of the products in the cart.
 * Customer cannot apply multiple offers for a single product.
 
- ![]( 
