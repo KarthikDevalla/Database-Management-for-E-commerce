@@ -1,4 +1,5 @@
 # Database-Management-for-E-commerce
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ## Objective
 The main objective of the project is to make way for easy online shopping, manage all major channels and vendors to the end customers and to keep up with the ever growing modernization.
