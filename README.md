@@ -4,8 +4,11 @@
 ## Objective
 The main objective of the project is to make way for easy online shopping, manage all major channels and vendors to the end customers and to keep up with the ever growing modernization.
 
-The scope of this project starts from collecting the product data from the vendors into the product information management which will be referred as PIM from now on which also contains sub tables likes products info, categories.
-The reason for the split in PIM is an attempt to build a dynamic database system (i.e) it changes over time. Any changes that could be done on categories alone could save performance intensive tasks that needed to be on performed on many products.
+
+•	Designed a database schema with a set of business rules and formulated a new system for product management called PIM (Product Information  Management that contains information on both the item and its category and populated the tables using Oracle SQL Live
+•	Queried database using SQL to address 5 different situations that commonly arise in the E-commerce sector
+•	Communicated the findings and results of the project leveraging pie charts and other graphical methods in Tableau.
+
 
 
 ## Business Rules.
